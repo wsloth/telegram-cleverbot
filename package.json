@@ -1,0 +1,25 @@
+{
+  "name": "node-telegram-cleverbot",
+  "version": "1.0.0",
+  "description": "Cleverbot chatbot for Telegram.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsloth/telegram-cleverbot.git"
+  },
+  "keywords": [
+    "telegram",
+    "chatbot",
+    "bot",
+    "cleverbot"
+  ],
+  "author": "Wessel Loth",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wsloth/telegram-cleverbot/issues"
+  },
+  "homepage": "https://github.com/wsloth/telegram-cleverbot#readme"
+}
