@@ -1,0 +1,7 @@
+{
+    "DEV_NAME": "@telegram_username",
+    "CLEVERBOT_USER": "Cleverbot.io user token",
+    "CLEVERBOT_KEY": "Cleverbot.io key token",
+    "TELEGRAM_TOKEN": "Telegram bot token",
+    "BOTANIO_TOKEN": "Botan.io token or empty"
+}
